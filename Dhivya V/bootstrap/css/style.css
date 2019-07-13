@@ -1,0 +1,302 @@
+*
+{
+	padding:0px;
+	margin:0px;
+	font-family:arial;
+	line-height:20px;
+	
+}
+body
+{
+
+}
+.main
+{
+	background:#F2F3F6;
+	color:#000000;
+	padding:10px 70px 10px 70px;
+	
+}
+.main span
+{
+	color:#b3a3a3;
+}
+.custom-navbar
+{
+	position:relative;
+	
+	margin:0px;
+	background:white;
+}
+.imgrel
+{
+	position:relative;
+}
+.textcar
+{
+	width: 570px;
+	height: 300px;
+	position: fixed;
+	left: 30px;
+	top: 70px;
+	border:white;
+	border-radius:12px;
+	
+	background:#FBF8F3;
+	
+}
+
+.textcar h1
+{
+	font-size:41px;
+	color:black;
+	font-weight:bolder;
+	text-align:left;
+	padding:10px 20px 0px 55px; 
+}
+.textcar p
+{
+	font-size:14px;
+	font-weight:normal;
+	text-align:left;
+	color:black;
+	padding:0px 20px 0px 55px; 
+}
+.carbtn
+{
+	
+	text-align:left;
+	padding:0px 20px 30px 55px; 
+}
+
+.pad
+{
+width:100%;
+height:450px;
+}
+.content
+{
+float:left;
+text-align:left;
+padding:40px 0px 10px 60px;
+}
+.content h1
+{
+font-weight:bolder;
+}
+.fclear
+{
+clear:both;
+}
+.serimg
+{
+    position: absolute;
+    left: 134px;
+    top: 95px;
+}
+.serimg1
+{
+
+    position: absolute;
+    left: 160px;
+    top: 96px;
+
+}
+.serimg2{
+
+    position: absolute;
+    left: 153px;
+    top: 94px;
+
+}
+.serimg3
+{
+
+    position: absolute;
+    left: 170px;
+    top: 95px;
+
+}
+.content1
+{
+display:block;
+float:left;
+padding:20px 0px 20px 0px;
+
+}
+.cbdr
+{
+border:1px solid #b7afaf99;
+border-radius:8px;
+display:inline-block;
+padding:26px 5px 21px 15px;
+margin-left:0px;
+}
+.cbdr1
+{
+border:1px solid #b7afaf99;
+border-radius:8px;
+display:inline-block;
+padding:26px 15px 21px 15px;
+margin-left:90px;
+}
+.cbdrt
+{
+border:1px solid #b7afaf99;
+border-radius:8px;
+display:inline-block;
+padding:26px 15px 21px 15px;
+margin-left:90px;
+}
+.cbdr2
+{
+border:1px solid #b7afaf99;
+border-radius:8px;
+display:inline-block;
+padding:26px 5px 21px 15px;
+margin-left:10px;
+}
+.rowmargin
+{
+margin-top:25px;
+}
+.content2
+{
+float:right;
+text-align:left;
+padding:0px 60px 0px 0px;
+}
+.content3
+{
+padding:40px 10px 50px 60px;
+}
+.bgimg
+{
+background:url("../../images/parallax-bg-1.jpg");
+width:100%;
+height:350px;
+}
+.bgimg p
+{
+font-size:30px;
+text-align:center;
+font-weight:bolder;
+padding-top:200px;
+}
+
+.bgimgpos
+{
+position:relative;
+}
+.bgimgpos p
+{
+position:absolute;
+
+}
+.float2
+{
+float:right;
+}
+
+.paddingrow
+{
+padding:40px 20px 20px 60px;
+}
+.paddingrow1
+{
+padding:40px 20px 0px 60px;
+}
+.paddingrow2
+{
+padding:0px 50px 45px 0px;
+}
+.paddingrow3
+{
+padding:20px 50px 25px 50px;
+}
+.rowpos
+{
+background:url("../../images/team-1-370x490.jpg");
+width:370px; height:490px;
+position:relative;
+}
+.rowpos1
+{
+background:url("../../images/team-2-370x490.jpg");
+width:370px; height:490px;
+position:relative;
+}
+.rowpos2
+{
+background:url("../../images/team-3-370x490.jpg");
+width:370px; height:490px;
+position:relative;
+}
+.rowcon
+{
+position:absolute;
+background:black;
+display:block;
+}
+.bgrow
+{
+background:url("../../images/background-1.jpg");
+}
+.cbdrb
+{
+border:1px solid #F88114;
+}
+.cbdrb
+{
+text-align:justify;
+padding:30px 20px 30px 20px;
+}
+
+.foot1
+{
+background-image:url("../../images/footer-bg.png");
+width:100%;
+height:30%;
+opacity:0px;
+padding:40px 60px 10px 0px;
+}
+.footer
+{
+background:#2F3A55;
+padding:40px 0px 10px 60px;
+}
+.footcol span
+{
+	color:gray;
+}
+.footcol p
+{
+	color:white;
+}
+.foot1 span
+{
+	color:white;
+}
+.foot1 p
+{
+	color:gray;
+}
+.spanclr
+{
+color:#F88114;
+font-weight:bolder;
+}
+.custom-btn
+{
+background:#F88114;
+}
+
+.fontsze
+{
+font-size:25px;
+}
+
+.content h4
+{
+ background:gray;
+}
